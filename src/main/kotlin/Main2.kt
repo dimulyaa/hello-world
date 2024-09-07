@@ -18,7 +18,6 @@ fun main() {
    var isChild=true
     isChild=false
 //    тут я поменял значение тру на фолс задание 10 ,не знаю правильно я понял задание
-
 //    var weightRebenka=45
 //    var heightRebenka=1.6f
 //    var facticheskyVes=weightRebenka <40
